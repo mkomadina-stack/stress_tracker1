@@ -1,7 +1,11 @@
 # stress_tracker1
 For Python Data Visualization Class
 
-Main python program is: stress11.py which can be run in terminal shell
+run in terminal with:
+
+python3 stress12.py
+
+Main python program is: stress12.py which can be run in terminal shell
 Other files are dependencies
 breathe2.py is separate breath animation
 
